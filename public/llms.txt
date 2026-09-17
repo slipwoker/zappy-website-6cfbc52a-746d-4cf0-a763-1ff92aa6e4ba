@@ -1,35 +1,59 @@
-# Business — Generative Engine Optimization Map
+# דן המחלץ — Generative Engine Optimization Map
+
+> A 24/7 roadside assistance service operating in the central region of Israel and surrounding areas. The business provides emergency road rescue services around the clock, positioning itself as a reliable and always-available solution for drivers in distress. The service emphasizes immediate availability and broad geographic coverage in the center of the country.
 
 ---
 
 ## Pages
 
 ### בית
-https://danhamechaletz.zappy5.app
+https://dan-hamechaletz.zappy5.app
 A 24/7 roadside assistance service operating in the central region of Israel and surrounding areas. The business provides emergency road rescue services around 
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://danhamechaletz.zappy5.app/privacy
+https://dan-hamechaletz.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://danhamechaletz.zappy5.app/terms
+https://dan-hamechaletz.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://danhamechaletz.zappy5.app/accessibility
+https://dan-hamechaletz.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: danasher123456@gmail.com
+- Phone: +972503232341
+- Phone (tel): tel:+972503232341
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About דן המחלץ
+A 24/7 roadside assistance service operating in the central region of Israel and surrounding areas. The business provides emergency road rescue services around the clock, positioning itself as a reliable and always-available solution for drivers in distress. The service emphasizes immediate availability and broad geographic coverage in the center of the country.
+
+## Services/Products
+- חילוצי דרך
+- שירות 24/7
+- כיסוי אזור המרכז וסביבה
+
+## Target Audience
+נהגים באזור המרכז וסביבתו
+
+## Industry
+שירותי חירום ורכב
+
 ---
 
-# Additional Resources
+# Machine-readable feeds
 
-- **Sitemap**: https://danhamechaletz.zappy5.app/sitemap.xml
-- **Robots.txt**: https://danhamechaletz.zappy5.app/robots.txt
+- Sitemap (XML): https://dan-hamechaletz.zappy5.app/sitemap.xml
+- Robots: https://dan-hamechaletz.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://dan-hamechaletz.zappy5.app/llms-full.txt
