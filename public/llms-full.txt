@@ -609,7 +609,7 @@ Description: A 24/7 roadside assistance service operating in the central region 
 
 - danasher123456@gmail.com
 
-- +972503232341
+- 0503232340
 
 - [business_address]
 
@@ -810,7 +810,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - אימייל: danasher123456@gmail.com
 
-- טלפון: +972503232341
+- טלפון: 0503232340
 
 - כתובת: [business_address]
 
@@ -869,7 +869,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - danasher123456@gmail.com
 
-- +972503232341
+- 0503232340
 
 - [business_address]
 
@@ -1078,7 +1078,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - אימייל: danasher123456@gmail.com
 
-- טלפון: +972503232341
+- טלפון: 0503232340
 
 
 
@@ -1138,7 +1138,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - danasher123456@gmail.com
 
-- +972503232341
+- 0503232340
 
 - [business_address]
 
@@ -1370,7 +1370,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - אימייל: danasher123456@gmail.com
 
-- טלפון: +972503232341
+- טלפון: 0503232340
 
 - כתובת: [business_address]
 
@@ -1426,7 +1426,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - danasher123456@gmail.com
 
-- +972503232341
+- 0503232340
 
 - [business_address]
 
