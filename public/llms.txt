@@ -1,4 +1,4 @@
-# דן המחלץ — Generative Engine Optimization Map
+# גיל המחלץ — Generative Engine Optimization Map
 
 > A 24/7 roadside assistance service operating in the central region of Israel and surrounding areas. The business provides emergency road rescue services around the clock, positioning itself as a reliable and always-available solution for drivers in distress. The service emphasizes immediate availability and broad geographic coverage in the center of the country.
 
@@ -36,7 +36,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About דן המחלץ
+## About גיל המחלץ
 A 24/7 roadside assistance service operating in the central region of Israel and surrounding areas. The business provides emergency road rescue services around the clock, positioning itself as a reliable and always-available solution for drivers in distress. The service emphasizes immediate availability and broad geographic coverage in the center of the country.
 
 ## Services/Products
