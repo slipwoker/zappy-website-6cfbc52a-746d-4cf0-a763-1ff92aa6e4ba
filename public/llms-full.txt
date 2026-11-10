@@ -103,7 +103,7 @@ Description: A 24/7 roadside assistance service operating in the central region 
 
 
 
-# גיל המחלץ בדרכים חילוץ דרכיםבכל שעה
+# גיל המחלץ חילוץ דרכיםבכל שעה
 
 
 
